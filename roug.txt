@@ -1,0 +1,61 @@
+🔷 Web Page Layout: "Modern Product/Service Page"
+
+🖼️ Hero Section (Top Banner)
+
+Full-width background image or gradient
+
+Large heading: "Unlock Your Natural Glow"
+
+Subheading: "Premium Hair Oil & Serum Combo – 100% Organic"
+
+Call-to-action button: “Shop Now”
+
+📦 Features Section
+
+3 Columns (Icons + Text)
+
+
+
+✅ Nourishes Scalp
+
+✅ Boosts Hair Growth
+
+✅ Chemical-Free Formula
+
+🧴 Product Section
+
+Left: Product Image (round bottle, serum dropper, etc.)
+
+Right:
+
+Title: “Hair Oil + Serum Bundle”
+
+Short Description
+
+Price
+
+“Add to Cart” Button
+
+💬 Testimonials Section
+
+2 or 3 cards with customer photos, names, and review quotes
+
+📞 Contact Section
+
+Contact Form:
+
+Name
+
+Email
+
+Message
+
+Right: Google Maps Embed or Business Address & Phone Number
+
+🚩 Footer
+
+Logo
+
+Social Media Icons
+
+Quick Links (Home, Products, About, Contact)
