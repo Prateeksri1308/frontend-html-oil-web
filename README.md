@@ -2,7 +2,7 @@
 
 A premium, responsive frontend website promoting an organic **Hair Oil & Serum Combo**. Designed with modern UI, clean code, and a smooth user experience, this site effectively showcases a natural beauty product offering.
 
-[sample img](./sample-img.png)
+![sample img](./sample-img.png)
 
 ---
 
