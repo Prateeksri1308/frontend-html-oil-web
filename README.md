@@ -1,4 +1,4 @@
- ✨ Unlock Your Natural Glow – Hair Oil & Serum Bundle Website
+## ✨ Unlock Your Natural Glow – Hair Oil & Serum Bundle Website
 
 A premium, responsive frontend website promoting an organic **Hair Oil & Serum Combo**. Designed with modern UI, clean code, and a smooth user experience, this site effectively showcases a natural beauty product offering.
 
@@ -6,13 +6,13 @@ A premium, responsive frontend website promoting an organic **Hair Oil & Serum C
 
 ---
 
- 🖼️ Demo
+# 🖼️ Demo
 
 🔗 👉 [Click here to visit the site](https://Prateeksri1308.github.io/frontend-html-oil-web/)
 
 ---
 
- 💡 Features
+# 💡 Features
 
 ✅ Responsive design (mobile + desktop)  
 ✅ Clean and elegant UI/UX  
@@ -23,7 +23,7 @@ A premium, responsive frontend website promoting an organic **Hair Oil & Serum C
 
 ---
 
- 📁 Project Structure
+# 📁 Project Structure
 
 frontend-html-oil-web /
 ├── index.html # Main HTML file
@@ -33,7 +33,7 @@ frontend-html-oil-web /
 
 ---
 
- 🧰 Tech Stack
+ # 🧰 Tech Stack
 
 - **HTML5** – For page structure and semantics  
 - **CSS3** – For layout, typography, icons, and responsiveness  
@@ -41,7 +41,7 @@ frontend-html-oil-web /
 
 ---
 
- 🛠️ How to Use
+# 🛠️ How to Use
 
  ▶️ View Locally
 
@@ -51,18 +51,18 @@ git clone https://github.com/Prateek1308/frontend-html-oil-web.git
 
 ----
 
-🙋 Author
+# 🙋 Author
 Prateek Srivastava
 📚 BCA Student @ UPES
 💻 GitHub: @Prateeksri1308
 
 ---
 
-📄 License
+# 📄 License
 This project is open-source and free to use for personal and learning purposes.
 ----
 
-💬 Suggestions Welcome!
+# 💬 Suggestions Welcome!
 Have ideas or feedback to improve this?
 Feel free to fork this repo or create a pull request!
 
