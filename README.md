@@ -6,9 +6,9 @@ A premium, responsive frontend website promoting an organic **Hair Oil & Serum C
 
  🖼️ Demo
 
-🔗 [Live Demo](#) &nbsp; *(Prateeksri1308.github.io/frontend-html-oil-web/)*  
+🔗 [Prateeksri1308.github.io/frontend-html-oil-web/],  
 📸 Screenshot:  
-![Screenshot](/sampe img.png)
+![sampe img.png]
 
 ---
 
